@@ -1,4 +1,6 @@
 from __future__ import print_function
+# Names: Cameron Burke and Irene Biney
+# Date: February 2,2016
 
 ''' 
 PrisonerDilemma.py allows hard-coding different strategies
